@@ -26,7 +26,7 @@ Assets/
 3. **Target** に転送先モデルB衣装の `SkinnedMeshRenderer` を指定
 4. 「転送するシェイプキー」リストから、転送したいものをチェック
 5. 「シェイプキー転送 実行」をクリック
-6. 出力結果は `Assets/BlendshapeTransfer/Output/` に保存されます
+6. 出力結果は `Assets/BlendshapeTransfer_Output/` に保存されます
 
 ## 注意事項
 - トポロジーが大きく異なる場合は誤差や破綻が発生します
